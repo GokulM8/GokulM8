@@ -175,7 +175,7 @@ Team Codexa's competitive AI platform. Full CI/CD pipeline with GitHub Actions, 
 ## 🏆 Hackathons
 
 - 🥇 **USAII Global AI Hackathon 2026** — RuralLink AI (Team Codexa) · *Active*
-- 🤖 **Radiothon 2026** — Jan 2026
+- 🤖 **Radiothon Winter 2026 Hackathon** — Team Lead & ML Engineer *(Jan 2026)*
 - 🏦 **Smart Indian Hackathon 2025** — Qualifiers Round
 - 🔬 **FrontEnd Battle 3.0 — VibeCoding Competition** — Jun 2026 *(Upcoming)*
 
