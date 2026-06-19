@@ -182,10 +182,9 @@ Team Codexa's competitive AI platform. Full CI/CD pipeline with GitHub Actions, 
 ## 🏆 Hackathons
 
 - 🥇 **USAII Global AI Hackathon 2026** — RuralLink AI (Team Codexa) · *Active*
-- ⚡ **Odoo Hackathon 2026** — Virtual round Jul 12
-- 🤖 **Microsoft Agents League Hackathon** — Jun 2026
-- 🏦 **Goldman Sachs India Hackathon 2026** — Group Trip Planner (C++ / Java)
-- 🔬 **IBM Bob Hackathon** — lablab.ai (Team Codexa)
+- 🤖 **Radiothon 2026** — Jan 2026
+- 🏦 **Smart Indian Hackathon 2025** — Qualifiers Round
+- 🔬 **FrontEnd Battle 3.0 - VibeCoding Competition** — Jun 2026 (Upcoming)
 
 ---
 
