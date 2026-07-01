@@ -184,10 +184,9 @@ Battle-tested across global hackathons.
 | 🔵 | **ML Intern** *(upcoming)* | FlyRank AI | Jul 2026 |
 | ✅ | **Fraud Detection Engineer** | Zetheta Algorithms | Jan–Mar 2026 |
 | 🎯 | **GSoC 2027 Prep** | scikit-learn · OpenMRS | Jun 2026 → |
-| 🥇 | **USAII Global AI Hackathon 2026** — RuralLink AI | Team Codexa | `Active` |
-| 🤖 | **Radiothon 2026** | — | Jan 2026 |
-| 🏦 | **Smart Indian Hackathon 2025** | — | `Qualifiers` |
-| 🔬 | **FrontEnd Battle 3.0 — VibeCoding** | — | `Upcoming` |
+| 🥇 | **USAII Global AI Hackathon 2026** — RuralLink AI | Team ByteCoders | `Finalist` |
+| 🤖 | **Radiothon 2026** | Team Doom (Participant) | Jan 2026 |
+| 🏦 | **Smart Indian Hackathon 2025** | Team Shark | `Qualifiers` |
 
 ---
 
