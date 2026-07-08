@@ -9,9 +9,9 @@
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/gokul-mallabathula-693a74118)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:your@email.com)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:gokulmallabathula@gmail.com)&nbsp;&nbsp;
 [![SafePulse](https://img.shields.io/badge/SAFEPULSE-1D9E75?style=flat-square&logo=vercel&logoColor=white&labelColor=1D9E75)](https://safepulse.in)&nbsp;&nbsp;
-[![Devpost](https://img.shields.io/badge/DEVPOST-003E54?style=flat-square&logo=devpost&logoColor=white&labelColor=003E54)](https://devpost.com/GokulM8)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6C47FF?style=flat-square&logo=vercel&logoColor=white&labelColor=6C47FF)](https://portfolio-gilt-gamma-53.vercel.app/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717)](https://github.com/GokulM8)
 
 ---
@@ -32,11 +32,11 @@ that make real-world impact. I value clean architecture, end-to-end ownership, a
 
 | | |
 |:---:|:---|
-| 🔭 | Building **RuralLink AI** — multilingual voice AI for rural India · USAII Hackathon 2026 |
-| 💼 | Incoming **ML Intern @ FlyRank AI** — July 2026 |
+| 💼 | **ML Engineer Intern @ FlyRank AI** — embeddings, clustering & intent modeling · Jul–Aug 2026 |
+| 🛡️ | **ThreatLens** — phishing & synthetic media detection for SEBI TechSprint 2026 (94.8% accuracy) |
+| 💸 | **NexRoute** — cross-border micro-remittance for Build with Gemini XPRIZE ($2M prize track) |
 | 🩺 | **SafePulse** live at [safepulse.in](https://safepulse.in) — cardiovascular risk prediction |
-| 🌱 | Learning **MLflow · Databricks · RAG pipelines** |
-| 🎯 | **GSoC 2027** prep — scikit-learn & OpenMRS |
+| 🎯 | **GSoC 2027** prep — OpenMRS (primary) & scikit-learn (secondary) |
 
 ---
 
@@ -53,17 +53,17 @@ that make real-world impact. I value clean architecture, end-to-end ownership, a
 
 ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)&nbsp;
+![XGBoost](https://img.shields.io/badge/XGBOOST-FF6F00?style=flat-square)&nbsp;
 ![Gemini](https://img.shields.io/badge/GEMINI_API-4285F4?style=flat-square&logo=google&logoColor=white)&nbsp;
-![MLflow](https://img.shields.io/badge/MLFLOW-0194E2?style=flat-square&logo=mlflow&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white)&nbsp;
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)&nbsp;
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square)
 
 **Web & Full-Stack**
 
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
-![Flask](https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)&nbsp;
 ![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=vercel&logoColor=white)&nbsp;
@@ -73,7 +73,7 @@ that make real-world impact. I value clean architecture, end-to-end ownership, a
 
 ![Git](https://img.shields.io/badge/GIT-F05033?style=flat-square&logo=git&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=flat-square&logo=github-actions&logoColor=white)&nbsp;
-![Databricks](https://img.shields.io/badge/DATABRICKS-FF3621?style=flat-square&logo=databricks&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;
 ![Mapbox](https://img.shields.io/badge/MAPBOX-000000?style=flat-square&logo=mapbox&logoColor=white)&nbsp;
 ![Clerk](https://img.shields.io/badge/CLERK-6C47FF?style=flat-square&logo=clerk&logoColor=white)&nbsp;
 ![Playwright](https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=flat-square&logo=playwright&logoColor=white)
@@ -114,32 +114,66 @@ that make real-world impact. I value clean architecture, end-to-end ownership, a
 
 **⚕️ SafePulse** &nbsp;![Live](https://img.shields.io/badge/LIVE-1D9E75?style=flat-square)
 
-Cardiovascular risk prediction app.<br/>
-LSTM model · UCI → Framingham → MIMIC-IV.<br/>
+Cardiovascular risk prediction using XGBoost + ONNX.<br/>
+Trained on UCI + Framingham datasets.<br/>
 SHAP explainability for clinical use.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
 
 [🌐 safepulse.in](https://safepulse.in)
 
 </td>
 <td width="50%" valign="top" align="center">
 
-**🌍 RuralLink AI** &nbsp;![Active](https://img.shields.io/badge/ACTIVE-185FA5?style=flat-square)
+**🌍 RuralLink AI** &nbsp;![Live](https://img.shields.io/badge/LIVE-1D9E75?style=flat-square)
 
-Multilingual voice AI for rural India.<br/>
-Hindi + 7 Indic languages · 6,547 villages.<br/>
-MyScheme.gov.in + Gemini 1.5 Flash.
+Multilingual rural service-discovery assistant.<br/>
+8 Indic languages · government schemes + facilities.<br/>
+Built for USAII Global AI Hackathon 2026.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000?style=flat-square&logo=mapbox&logoColor=white)
 
-[🏆 USAII Hackathon 2026](https://devpost.com/GokulM8)
+[📂 Source](https://github.com/GokulM8/rural-link-ai) · [🌐 Preview](https://rural-link-ai.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**🛡️ ThreatLens** &nbsp;![In Progress](https://img.shields.io/badge/IN_PROGRESS-E3B341?style=flat-square)
+
+Phishing URL, synthetic media & fake-communication<br/>
+detection · 94.8% accuracy with SHAP explainability.<br/>
+SEBI TechSprint 2026 · Investor Protection Track.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
+
+🏛️ SEBI TechSprint 2026
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**💸 NexRoute** &nbsp;![In Progress](https://img.shields.io/badge/IN_PROGRESS-E3B341?style=flat-square)
+
+Cross-border micro-remittance platform for the<br/>
+Kenya/M-Pesa corridor · crypto-to-mobile-money<br/>
+via Kotani Pay + Gemini AI routing. Team Codexa.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+💰 Build with Gemini XPRIZE · $2M Prize Pool
 
 </td>
 </tr>
@@ -154,22 +188,49 @@ Cancer detection under Med2Predict.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
 
 </td>
 <td width="50%" valign="top" align="center">
 
-**🤖 Codexa-AI** &nbsp;![Open Source](https://img.shields.io/badge/OPEN_SOURCE-bc8cff?style=flat-square)
+**🏢 Smart Park** &nbsp;![Live](https://img.shields.io/badge/LIVE-1D9E75?style=flat-square)
 
-Team Codexa's hackathon platform.<br/>
-GitHub Actions CI + Playwright e2e.<br/>
-Battle-tested across global hackathons.
+Real-time parking management system.<br/>
+Slot tracking, vehicle entry/exit, admin dashboard.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
-[📂 GokulM8/Codexa-AI](https://github.com/GokulM8/Codexa-AI)
+[📂 Source](https://github.com/GokulM8/smart-park) · [🌐 Preview](https://smart-park-green-eight.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**📊 Care Transition Analytics** &nbsp;![Research](https://img.shields.io/badge/RESEARCH-9DB8F0?style=flat-square)
+
+U.S. UAC care pipeline analysis, 5 custom KPIs,<br/>
+Streamlit dashboard. Published on SSRN.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[📂 Source](https://github.com/GokulM8/Care-Transition-CBP) · [📄 Paper](https://papers.ssrn.com/abstract=6811798)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**🏘️ Buyer Segmentation** &nbsp;![Research](https://img.shields.io/badge/RESEARCH-9DB8F0?style=flat-square)
+
+K-Means & hierarchical clustering to profile real<br/>
+estate investor types from Parcl market data.
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+[📂 Source](https://github.com/GokulM8/Buyer-Segmentation-and-Investment-Profiling) · [📄 Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6881578)
 
 </td>
 </tr>
@@ -181,12 +242,14 @@ Battle-tested across global hackathons.
 
 | | Role / Event | Where | When |
 |:---:|---|---|:---:|
-| 🔵 | **ML Intern** *(upcoming)* | FlyRank AI | Jul 2026 |
-| ✅ | **Fraud Detection Engineer** | Zetheta Algorithms | Jan–Mar 2026 |
-| 🎯 | **GSoC 2027 Prep** | scikit-learn · OpenMRS | Jun 2026 → |
+| 💼 | **ML Engineer Intern** | FlyRank AI | Jul – Aug 2026 |
+| ✅ | **Fraud Detection Engineer** | Zetheta Algorithms | Jan – Mar 2026 |
+| 🎯 | **GSoC 2027 Prep** | OpenMRS · scikit-learn | Jun 2026 → |
 | 🥇 | **USAII Global AI Hackathon 2026** — RuralLink AI | Team ByteCoders | `Finalist` |
-| 🤖 | **Radiothon 2026** | Team Doom (Participant) | Jan 2026 |
-| 🏦 | **Smart Indian Hackathon 2025** | Team Shark | `Qualifiers` |
+| 🛡️ | **SEBI TechSprint 2026** — ThreatLens | Investor Protection Track | `Ongoing` |
+| 💰 | **Build with Gemini XPRIZE** — NexRoute | Financial Access Track | `Ongoing` |
+| 🤖 | **Radiothon Winter 2026** | Team Doom | `Participant` |
+| 🏦 | **Smart India Hackathon 2025** | Team Shark | `Round 2 Qualifier` |
 
 ---
 
