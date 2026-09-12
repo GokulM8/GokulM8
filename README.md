@@ -44,7 +44,6 @@ I focus on learning by building — from ML models and analytics dashboards to c
 |  🩺 | **Health-Tech** — working on projects such as SafePulse and Helidec                                       |
 |  🌐 | **Full-Stack Applications** — React, Next.js, Supabase and modern web technologies                        |
 |  🔬 | **Research** — exploring applied machine learning, analytics and healthcare problems                      |
-|  🎯 | **GSoC 2027 Preparation** — contributing toward open-source projects and strengthening development skills |
 
 ---
 
